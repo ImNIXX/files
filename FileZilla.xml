@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.49.1" platform="windows">
+	<Servers>
+		<Server>
+			<Host>safetyerudite.com</Host>
+			<Port>43660</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>sesftp</User>
+			<Pass encoding="base64">RTh3ZENEM25nRjc5aDhSc2R1</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ag-safe</Name>
+			<Comments>E8wdCD3ngF79h8Rsdu</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>safetyerudite.com</Host>
+			<Port>43660</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>sesftp</User>
+			<Pass encoding="base64">RTh3ZENEM25nRjc5aDhSc2R1</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ag_safe</Name>
+			<Comments>E8wdCD3ngF79h8Rsdu</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.aphroditecollection.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>aphrodit</User>
+			<Pass encoding="base64">MlhCeih0THVdQXJ1</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>aphrodite</Name>
+			<Comments>2XBz(tLu]Aru</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.165.49.80</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>pc_jdmb</User>
+			<Pass encoding="base64">WDNRSzRwanQz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Jdmb Live.</Name>
+			<Comments>X3QK4pjt3</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.165.49.80</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>jdmbinfo</User>
+			<Pass encoding="base64">MzJ3TTlCbWhC</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>jdmb_secure</Name>
+			<Comments>32wM9BmhB</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.demourls.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u841552344.nikhilesh</User>
+			<Pass encoding="base64">QWRtaW5AMTIzNA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>nikhilesh</Name>
+			<Comments>Admin@1234</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ouqtr.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>devouq@ouqtr.com</User>
+			<Pass encoding="base64">U0gxMjNvdXEjMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ouq</Name>
+			<Comments>SH123ouq#123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>w01473b8.kasserver.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>f0128bff</User>
+			<Pass encoding="base64">aDhIQzVnZVpXVXlWUWFvSA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Procurement</Name>
+			<Comments>
+w01473b8.kasserver.com
+
+f0128bff
+h8HC5geZWUyVQaoH</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.demourls.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u841552344.puru</User>
+			<Pass encoding="base64">QWRtaW5AMTIzNA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>puru</Name>
+			<Comments>Admin@1234</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>35.213.172.53</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>devftp@racysharma.com</User>
+			<Pass encoding="base64">QCNAZ3V4eDExRUBl</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>racy_shar</Name>
+			<Comments>@#@guxx11E@e</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>68.66.234.72</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>takwaiftp@takwaimodel.com</User>
+			<Pass encoding="base64">WllNJF1BQDYzOU8=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>takwai live</Name>
+			<Comments>ZYM$]A@639O</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+	<Settings>
+		<Setting name="Use Pasv mode">1</Setting>
+		<Setting name="Limit local ports">0</Setting>
+		<Setting name="Limit ports low">6000</Setting>
+		<Setting name="Limit ports high">7000</Setting>
+		<Setting name="Limit ports offset">0</Setting>
+		<Setting name="External IP mode">0</Setting>
+		<Setting name="External IP" />
+		<Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+		<Setting name="Last resolved IP" />
+		<Setting name="No external ip on local conn">1</Setting>
+		<Setting name="Pasv reply fallback mode">0</Setting>
+		<Setting name="Timeout">20</Setting>
+		<Setting name="Logging Debug Level">0</Setting>
+		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="fzsftp executable" />
+		<Setting name="fzstorj executable" />
+		<Setting name="Allow transfermode fallback">1</Setting>
+		<Setting name="Reconnect count">2</Setting>
+		<Setting name="Reconnect delay">5</Setting>
+		<Setting name="Enable speed limits">0</Setting>
+		<Setting name="Speedlimit inbound">1000</Setting>
+		<Setting name="Speedlimit outbound">100</Setting>
+		<Setting name="Speedlimit burst tolerance">0</Setting>
+		<Setting name="Preallocate space">0</Setting>
+		<Setting name="View hidden files">0</Setting>
+		<Setting name="Preserve timestamps">0</Setting>
+		<Setting name="Socket recv buffer size (v2)">4194304</Setting>
+		<Setting name="Socket send buffer size (v2)">262144</Setting>
+		<Setting name="FTP Keep-alive commands">0</Setting>
+		<Setting name="FTP Proxy type">0</Setting>
+		<Setting name="FTP Proxy host" />
+		<Setting name="FTP Proxy user" />
+		<Setting name="FTP Proxy password" />
+		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" />
+		<Setting name="SFTP compression">0</Setting>
+		<Setting name="Proxy type">0</Setting>
+		<Setting name="Proxy host" />
+		<Setting name="Proxy port">0</Setting>
+		<Setting name="Proxy user" />
+		<Setting name="Proxy password" />
+		<Setting name="Logging file" />
+		<Setting name="Logging filesize limit">10</Setting>
+		<Setting name="Logging show detailed logs">0</Setting>
+		<Setting name="Size format">0</Setting>
+		<Setting name="Size thousands separator">1</Setting>
+		<Setting name="Size decimal places">1</Setting>
+		<Setting name="TCP Keepalive Interval">15</Setting>
+		<Setting name="Cache TTL">600</Setting>
+		<Setting name="Number of Transfers">2</Setting>
+		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii files">ac|am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diff|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsh|nsi|pas|patch|pem|php|phtml|pl|po|pot|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+		<Setting name="Auto Ascii no extension">1</Setting>
+		<Setting name="Auto Ascii dotfiles">1</Setting>
+		<Setting name="Language Code" />
+		<Setting name="Concurrent download limit">0</Setting>
+		<Setting name="Concurrent upload limit">0</Setting>
+		<Setting name="Update Check">1</Setting>
+		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Update Check Check Beta">0</Setting>
+		<Setting name="Show debug menu">0</Setting>
+		<Setting name="File exists action download">0</Setting>
+		<Setting name="File exists action upload">0</Setting>
+		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Onetime Dialogs" />
+		<Setting name="Show Tree Local">1</Setting>
+		<Setting name="Show Tree Remote">1</Setting>
+		<Setting name="File Pane Layout">0</Setting>
+		<Setting name="File Pane Swap">0</Setting>
+		<Setting name="Filelist directory sort">0</Setting>
+		<Setting name="Filelist name sort">0</Setting>
+		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Queue column widths">180 60 180 80 60 150</Setting>
+		<Setting name="Local filelist colwidths">170 80 120 120</Setting>
+		<Setting name="Remote filelist colwidths">182 75 80 100 80 85</Setting>
+		<Setting name="Window position and size">1 360 45 1184 663 </Setting>
+		<Setting name="Local filelist sortorder">0 0</Setting>
+		<Setting name="Remote filelist sortorder">0 0</Setting>
+		<Setting name="Time Format" />
+		<Setting name="Date Format" />
+		<Setting name="Show message log">1</Setting>
+		<Setting name="Show queue">1</Setting>
+		<Setting name="Default editor" />
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="Inherit system associations">1</Setting>
+		<Setting name="Custom file associations">css C:\Windows\system32\NOTEPAD.EXE</Setting>
+		<Setting name="Comparison mode">1</Setting>
+		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Site Manager position">0 305 123 740 443 </Setting>
+		<Setting name="Icon theme">default</Setting>
+		<Setting name="Icon scale">125</Setting>
+		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+		<Setting name="Filelist status bar">1</Setting>
+		<Setting name="Filter toggle state">0</Setting>
+		<Setting name="Show quickconnect bar">1</Setting>
+		<Setting name="Messagelog position">0</Setting>
+		<Setting name="File doubleclick action">0</Setting>
+		<Setting name="Dir doubleclick action">0</Setting>
+		<Setting name="Minimize to tray">0</Setting>
+		<Setting name="Search column widths" />
+		<Setting name="Search column shown" />
+		<Setting name="Search column order" />
+		<Setting name="Search window size" />
+		<Setting name="Comparison hide identical">0</Setting>
+		<Setting name="Search sort order" />
+		<Setting name="Edit track local">1</Setting>
+		<Setting name="Prevent idle sleep">1</Setting>
+		<Setting name="Filteredit window size" />
+		<Setting name="Enable invalid char filter">1</Setting>
+		<Setting name="Invalid char replace">_</Setting>
+		<Setting name="Edit status dialog size" />
+		<Setting name="Display current speed">0</Setting>
+		<Setting name="Toolbar hidden">0</Setting>
+		<Setting name="Strip VMS revisions">0</Setting>
+		<Setting name="Startup action">0</Setting>
+		<Setting name="Prompt password save">0</Setting>
+		<Setting name="Persistent Choices">1</Setting>
+		<Setting name="Queue completion action">1</Setting>
+		<Setting name="Queue completion command" />
+		<Setting name="Drag and Drop disabled">0</Setting>
+		<Setting name="Disable update footer">0</Setting>
+		<Setting name="Master password encryptor" />
+		<Setting name="Config Location">C:\Users\ycs\AppData\Roaming\FileZilla\</Setting>
+		<Setting name="Kiosk mode">0</Setting>
+		<Setting name="Disable update check">0</Setting>
+		<Setting name="Cache directory" />
+		<Setting name="Greeting version">3.49.1</Setting>
+		<Setting name="Greeting resources" />
+		<Setting name="Already connected choice">2</Setting>
+		<Setting name="Last automatic update version">3.49.1</Setting>
+		<Setting name="Splitter positions (v2)">125 -131 500000000 100 100 500000000</Setting>
+		<Setting name="File associations (v2)" platform="win">. "C:\Program Files\Sublime Text 3\sublime_text.exe"
+css "C:\Program Files\Sublime Text 3\sublime_text.exe"
+html "C:\Program Files\Sublime Text 3\sublime_text.exe" %f
+js C:\Users\ycs\AppData\Local\atom\app-1.50.0\atom.exe %f
+php "C:\Program Files\Sublime Text 3\sublime_text.exe" %f</Setting>
+		<Setting name="Sitemanager last selected">0/aphrodite</Setting>
+		<Setting name="Tab data" sensitive="1">
+			<Tabs>
+				<Tab connected="1" selected="1">
+					<Host>194.165.49.80</Host>
+					<Port>21</Port>
+					<Protocol>6</Protocol>
+					<Type>0</Type>
+					<User>pc_jdmb</User>
+					<Pass encoding="base64">WDNRSzRwanQz</Pass>
+					<Logontype>1</Logontype>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Jdmb Live.</Name>
+					<Site>0/Jdmb Live.</Site>
+					<RemotePath>1 0 19 jedeposemonbilan-pc</RemotePath>
+					<LocalPath>E:\Backup\JMDB\24sep 2020\</LocalPath>
+				</Tab>
+			</Tabs>
+		</Setting>
+		<Setting name="Last automatic update check">2020-09-30 09:53:31</Setting>
+		<Setting name="Update Check New Version" platform="win">nightly 2020-09-29 https://filezilla-project.org/nightlies/2020-09-29/win64/FileZilla_3_setup.exe 11268496 sha512 c645867af2cdec15ded83d57c487db1b6cdac65299044591596a0da05585824d68ed9938e4c8942f561a52997f3e12b87d880c8438b74d041743cd9670aded08 sig:kRZTR/7P2WKR2sJaI1LrZE36zHoTWNMxyIHLw2GjquPocXa6bAPVRWQVSvTHOBDCXYYKiHRDbH6VHPqqfHEjCA
+release 3.50.0 https://dl3.cdn.filezilla-project.org/FileZilla_3.50.0_win64-setup.exe 10773320 sha512 8989de93d9fc9273762fadfc3144150154ebfaee5ed87107280525995c74109e5082678f82fff3c40d6b8d3ed0aa2402988915d56767b9987116451807f1a861 sig:C+Jd2Odx2HN8yI0W66vR3L2riuengotHk2TxRCHQY5QNT/v4mLBns2206s2/kXhO71sQqq8/hRlsTqZklDNJAA
+resources PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48cmVzb3VyY2UgdmVyc2lvbj0iMi4zLjAuMSIgeG1sbnM9Imh0dHA6Ly93d3cud3h3aW5kb3dzLm9yZy93eHhyYyI+PG9iamVjdCBjbGFzcz0id3hQYW5lbCIgbmFtZT0iSURfVVBEQVRFX0hFQURFUiI+PG9iamVjdCBjbGFzcz0id3hCb3hTaXplciI+PG9yaWVudD53eFZFUlRJQ0FMPC9vcmllbnQ+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48ZmxhZz53eEdST1c8L2ZsYWc+PG9iamVjdCBjbGFzcz0id3hTdGF0aWNCb3hTaXplciI+PGxhYmVsPlRoaXMgdXBkYXRlIGlzIHNwb25zb3JlZCBieSBTdG9yaiBMYWJzPC9sYWJlbD48b3JpZW50Pnd4VkVSVElDQUw8L29yaWVudD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxmbGFnPnd4QUxJR05fQ0VOVEVSX0hPUklaT05UQUx8d3hMRUZUfHd4UklHSFR8d3hCT1RUT008L2ZsYWc+PGJvcmRlcj4yZDwvYm9yZGVyPjxvYmplY3QgY2xhc3M9Ind4RmxleEdyaWRTaXplciI+PGhnYXA+MmQ8L2hnYXA+PGNvbHM+MjwvY29scz48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxmbGFnPnd4QUxJR05fQ0VOVEVSX1ZFUlRJQ0FMPC9mbGFnPjxvYmplY3QgY2xhc3M9Ind4RmxleEdyaWRTaXplciI+PGNvbHM+MTwvY29scz48dmdhcD4xZDwvdmdhcD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxvYmplY3QgY2xhc3M9Ind4U3RhdGljVGV4dCI+PGxhYmVsPkFubm91bmNpbmcgVGFyZGlncmFkZSBDbG91ZCBTdG9yYWdlPC9sYWJlbD48Zm9udD48d2VpZ2h0PmJvbGQ8L3dlaWdodD48L2ZvbnQ+PC9vYmplY3Q+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eFN0YXRpY1RleHQiPjxsYWJlbD5UYXJkaWdyYWRlIENsb3VkIFN0b3JhZ2UgaXMgbm93IGF2YWlsYWJsZSBmb3IgRmlsZVppbGxhIHVzZXJzLjwvbGFiZWw+PC9vYmplY3Q+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eFN0YXRpY1RleHQiPjxsYWJlbD5TdGFydCBzdG9yaW5nIHlvdXIgZmlsZXMgb24gZW5kLXRvLWVuZCBlbmNyeXB0ZWQgY2xvdWQgc3RvcmFnZVxuZm9yIG1heGltdW0gcHJpdmFjeSBhbmQgc2VjdXJpdHkuPC9sYWJlbD48L29iamVjdD48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxvYmplY3QgY2xhc3M9Ind4SHlwZXJsaW5rQ3RybCI+PGxhYmVsPlNpZ24gdXA8L2xhYmVsPjx1cmw+aHR0cHM6Ly9vZmZlcnMuZmlsZXppbGxhLXByb2plY3Qub3JnL3JlZGlyZWN0LnBocD9jPXRhcmRpZ3JhZGUmYW1wO3M9dTwvdXJsPjwvb2JqZWN0Pjwvb2JqZWN0Pjwvb2JqZWN0Pjwvb2JqZWN0PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PGZsYWc+d3hBTElHTl9DRU5URVJfVkVSVElDQUw8L2ZsYWc+PG9iamVjdCBjbGFzcz0id3hCb3hTaXplciI+PG9yaWVudD53eFZFUlRJQ0FMPC9vcmllbnQ+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eFN0YXRpY0JpdG1hcCI+PGJpdG1hcD5ibG9iNjQ6aVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUl3QUFBQkdDQU1BQUFBcGJZemVBQUFCQzFCTVZFVUFBQUFtZy84bWcvOGxndjhtaFA4QUFBQWxnLzhBQUFBbGcvOG1nLzhBQUFBbmd2OG1ndjhBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFsaFA4QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFsZ3Y4QUFBQUFBQUFBQUFBQUFBQUFBQUFxaWY4QUFBQWxnLzhBQUFBQUFBQUFBQUFxaXY4QUFBQXZrUDhBQUFBbGcvOEFBQUFsZy84QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFxaHY4OGx2ODRzUDhsZy84QUFBQUFBQUFBQUFBbWd2OGxnLzhtZy84bWcvOG1nLzhtaGY4bGcvOGxnLzhBQUFBQUFBQUFBQUFBQUFBbWhQOG5oUDhtaFA4bmhQOG1nLzhtaFA4cGhmOGxndjhBQUFBYzNDZjhBQUFBVjNSU1RsTUFwNktzYktWbjViRnhhV0pjV3p6eDZiZjh3cXY0M2RaTG00MTVaRjlWSnlFYzhzM0dnMzl1R0FiNmMwSVdFdzRNbUZoUTl1clJ2YU9JZHpNdkhnZ0U3TFN2blphUGlvUlRQZC9NazMxSU5uSlBTUzNEZURKQWRzM2dBQUFEQjBsRVFWUm8zdXpXdVE2Q1FCakU4VkdNa2NnTDBGSVpDa0kydGh3RktrZmpQZS8vSmg0UWFKWlkrUzNHL1ZkVC9zcUJ6V2F6L1VoUlZlR2lxZ1NtUzBzbkoyZFlrQXhtS29hNUVqOGcyV0ZlaFRjWUtzR1M3REZ0YzVTTEdOSmxYdU5vTVM2RDRnTEo0bU5Oam1HZVhWVUtvVGI3Z0J6SHZNczlpSFFPeVk4WSt2aCsxUkZyVGdLVHFZYXJhV0JpdHlhbmdZa09PVGtWakVkYWpNWDhENmJBa0dGTTQ2VVlNb25aK25kb2s4ZlViZ1I5OGhpZHhCaEdsOFdJWWM0OTV0Ump5aDZqWkRIWmZ0dGhzbDI3bk9jS08weGFoSEtZNFlldlh1dlJicDJzdGcyRllSaitLQWlCcUlhakdWdldFQ2x4RmN1b3J2RVV1d1hITFhTUmdlNisrNytTMnBJZFpSRlM3SkRnZ3A3VmY4UVBla0Zub1Y4WFZRend2UXI3dEp0KzF0TkhxWDZ3UHUrbmkrdHZUOVB2USt6MUgzeWdIMSt3OS9YbHFkVnF0VnJ2SStscFVOM3h2NWVlQzl3Q2J6QmVoM2lSVHdrTDN1TTExZEp6SS9ieEJnTjJYM2xQaE9OaUVPRU5mSU1UTDRabXlVTHpMS3k4dS80VVVGSjUzcU1FeFZPQklKV2xzZGRCNEFWM2MrUWQxMXNNdkxCWndsTElYcWZFem8zbkE3NWxwTjBjeHl0Y3VpSjVORG4xSEJyUXFKTzRvWm5KRGlWY1VjR2dQdGpvVXFlRk5YVkxkNmcwUzB2VEVTNHQ3SFNvSXFCalRXaWYvSm5XdkFjV1ZZempENkdiR25Lcmp0a2VDdVN6S3NaZGxrdktReVFUS3MyU1lBaXMrWENJMFowVlNwZmFxVEV5UzJCWXhjeUFpQ2tBdFk2Sk9RVVFWakZYUU1CT2RVK1Zac2xnbG1VdXUvdVlpQmFBU3c1T2pYRTVCSklxeGdaaWVnQjZkVXhDRjRCYXhmUjNUMGNBTmxTYUpabVhPOFZUVEFaZ1FRWEg2M01CU056aytlWVFBNWs5REtkMURHUUdHS2FIbUlqNkNpdWRDb3pEa3IwZHlvMlV3STkzTVRETUFySEJGWTYzSk9VbzFxbnJrNmNZbFpRZFl4OFRWb2REREVZMFpYTkNwVm1LZGJvNmJZeVpWakdoYWJvT096aEZLSWtFMFR3YnhVSkNKTzZ4OVhCclhXcmlCcXJ3Z1dKNzhHa2pGR05zOVdjaTZBbS9XVUp5bDgzNk9aSmJCWUVvZ01kNWFvZDRGNzVhMXZmMkhJdzRHNnN5Tlp5RDBpSnBYdUZNUEFaaGpGYXIxZnFQL0FXcjFuS3ZoNnppR1FBQUFBQkpSVTVFcmtKZ2dnPT08L2JpdG1hcD48c2l6ZT4xNDAsNzA8L3NpemU+PHRvb2x0aXA+aHR0cHM6Ly9vZmZlcnMuZmlsZXppbGxhLXByb2plY3Qub3JnL3JlZGlyZWN0LnBocD9jPXRhcmRpZ3JhZGUmYW1wO3M9dTwvdG9vbHRpcD48L29iamVjdD48Ym9yZGVyPjJkPC9ib3JkZXI+PGZsYWc+d3hSSUdIVDwvZmxhZz48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxvYmplY3QgY2xhc3M9Ind4SHlwZXJsaW5rQ3RybCI+PGxhYmVsPldoYXQgaXMgdGhpcz88L2xhYmVsPjx1cmw+aHR0cHM6Ly9maWxlemlsbGEtcHJvamVjdC5vcmcvc3BvbnNvcmVkX3VwZGF0ZXMucGhwPC91cmw+PC9vYmplY3Q+PGZsYWc+d3hBTElHTl9SSUdIVDwvZmxhZz48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzcGFjZXIiPjxzaXplPjEwLDM8L3NpemU+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0id3hQYW5lbCIgbmFtZT0iSURfV0VMQ09NRV9IRUFERVIiPjxvYmplY3QgY2xhc3M9Ind4Qm94U2l6ZXIiPjxvcmllbnQ+d3hWRVJUSUNBTDwvb3JpZW50PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PGZsYWc+d3hHUk9XPC9mbGFnPjxvYmplY3QgY2xhc3M9Ind4U3RhdGljQm94U2l6ZXIiPjxsYWJlbD5UaGlzIHVwZGF0ZSBpcyBzcG9uc29yZWQgYnkgU3RvcmogTGFiczwvbGFiZWw+PG9yaWVudD53eFZFUlRJQ0FMPC9vcmllbnQ+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48ZmxhZz53eEFMSUdOX0NFTlRFUl9IT1JJWk9OVEFMfHd4TEVGVHx3eFJJR0hUfHd4Qk9UVE9NPC9mbGFnPjxib3JkZXI+MmQ8L2JvcmRlcj48b2JqZWN0IGNsYXNzPSJ3eEZsZXhHcmlkU2l6ZXIiPjxoZ2FwPjJkPC9oZ2FwPjxjb2xzPjI8L2NvbHM+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48ZmxhZz53eEFMSUdOX0NFTlRFUl9WRVJUSUNBTDwvZmxhZz48b2JqZWN0IGNsYXNzPSJ3eEZsZXhHcmlkU2l6ZXIiPjxjb2xzPjE8L2NvbHM+PHZnYXA+MWQ8L3ZnYXA+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eFN0YXRpY1RleHQiPjxsYWJlbD5Bbm5vdW5jaW5nIFRhcmRpZ3JhZGUgQ2xvdWQgU3RvcmFnZTwvbGFiZWw+PGZvbnQ+PHdlaWdodD5ib2xkPC93ZWlnaHQ+PC9mb250Pjwvb2JqZWN0Pjwvb2JqZWN0PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PG9iamVjdCBjbGFzcz0id3hTdGF0aWNUZXh0Ij48bGFiZWw+VGFyZGlncmFkZSBDbG91ZCBTdG9yYWdlIGlzIG5vdyBhdmFpbGFibGUgZm9yIEZpbGVaaWxsYSB1c2Vycy48L2xhYmVsPjwvb2JqZWN0Pjwvb2JqZWN0PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PG9iamVjdCBjbGFzcz0id3hTdGF0aWNUZXh0Ij48bGFiZWw+U3RhcnQgc3RvcmluZyB5b3VyIGZpbGVzIG9uIGVuZC10by1lbmQgZW5jcnlwdGVkIGNsb3VkIHN0b3JhZ2VcbmZvciBtYXhpbXVtIHByaXZhY3kgYW5kIHNlY3VyaXR5LjwvbGFiZWw+PC9vYmplY3Q+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eEh5cGVybGlua0N0cmwiPjxsYWJlbD5TaWduIHVwPC9sYWJlbD48dXJsPmh0dHBzOi8vb2ZmZXJzLmZpbGV6aWxsYS1wcm9qZWN0Lm9yZy9yZWRpcmVjdC5waHA/Yz10YXJkaWdyYWRlJmFtcDtzPXc8L3VybD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxmbGFnPnd4QUxJR05fQ0VOVEVSX1ZFUlRJQ0FMPC9mbGFnPjxvYmplY3QgY2xhc3M9Ind4Qm94U2l6ZXIiPjxvcmllbnQ+d3hWRVJUSUNBTDwvb3JpZW50PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PG9iamVjdCBjbGFzcz0id3hTdGF0aWNCaXRtYXAiPjxiaXRtYXA+YmxvYjY0OmlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFJd0FBQUJHQ0FNQUFBQXBiWXplQUFBQkMxQk1WRVVBQUFBbWcvOG1nLzhsZ3Y4bWhQOEFBQUFsZy84QUFBQWxnLzhtZy84QUFBQW5ndjhtZ3Y4QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBbGhQOEFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBbGd2OEFBQUFBQUFBQUFBQUFBQUFBQUFBcWlmOEFBQUFsZy84QUFBQUFBQUFBQUFBcWl2OEFBQUF2a1A4QUFBQWxnLzhBQUFBbGcvOEFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBcWh2ODhsdjg0c1A4bGcvOEFBQUFBQUFBQUFBQW1ndjhsZy84bWcvOG1nLzhtZy84bWhmOGxnLzhsZy84QUFBQUFBQUFBQUFBQUFBQW1oUDhuaFA4bWhQOG5oUDhtZy84bWhQOHBoZjhsZ3Y4QUFBQWMzQ2Y4QUFBQVYzUlNUbE1BcDZLc2JLVm41YkZ4YVdKY1d6eng2YmY4d3F2NDNkWkxtNDE1WkY5Vkp5RWM4czNHZzM5dUdBYjZjMElXRXc0TW1GaFE5dXJSdmFPSWR6TXZIZ2dFN0xTdm5aYVBpb1JUUGQvTWszMUlObkpQU1MzRGVESkFkczNnQUFBREIwbEVRVlJvM3V6V3VRNkNRQmpFOFZHTWtjZ0wwRklaQ2tJMnRod0ZLa2ZqUGUvL0poNFFhSlpZK1MzRy9WZFQvc3FCeldhei9VaFJWZUdpcWdTbVMwc25KMmRZa0F4bUtvYTVFajhnMldGZWhUY1lLc0dTN0RGdGM1U0xHTkpsWHVOb01TNkQ0Z0xKNG1OTmptR2VYVlVLb1RiN2dCekh2TXM5aUhRT3lZOFkrdmgrMVJGclRnS1RxWWFyYVdCaXR5YW5nWWtPT1RrVmpFZGFqTVg4RDZiQWtHRk00NlVZTW9uWituZG9rOGZVYmdSOThoaWR4QmhHbDhXSVljNDk1dFJqeWg2alpESFpmdHRoc2wyN25PY0tPMHhhaEhLWTRZZXZYdXZSYnAyc3RnMkZZUmorS0FpQnFJYWpHVnZXRUNseEZjdW9ydkVVdXdYSExYU1JnZTYrKzcrUzJwSWRaUkZTN0pEZ2dwN1ZmOFFQZWtGbm9WOFhWUXp3dlFyN3RKdCsxdE5IcVg2d1B1K25pK3R2VDlQdlErejFIM3lnSDErdzkvWGxxZFZxdFZydkkrbHBVTjN4djVlZUM5d0NiekJlaDNpUlR3a0wzdU0xMWRKekkvYnhCZ04yWDNsUGhPTmlFT0VOZklNVEw0Wm15VUx6TEt5OHUvNFVVRko1M3FNRXhWT0JJSldsc2RkQjRBVjNjK1FkMTFzTXZMQlp3bExJWHFmRXpvM25BNzVscE4wY3h5dGN1aUo1TkRuMUhCclFxSk80b1puSkRpVmNVY0dnUHRqb1VxZUZOWFZMZDZnMFMwdlRFUzR0N0hTb0lxQmpUV2lmL0puV3ZBY1dWWXpqRDZHYkduS3JqdGtlQ3VTektzWmRsa3ZLUXlRVEtzMlNZQWlzK1hDSTBaMFZTcGZhcVRFeVMyQll4Y3lBaUNrQXRZNkpPUVVRVmpGWFFNQk9kVStWWnNsZ2xtVXV1L3VZaUJhQVN3NU9qWEU1QkpJcXhnWmllZ0I2ZFV4Q0Y0QmF4ZlIzVDBjQU5sU2FKWm1YTzhWVFRBWmdRUVhINjNNQlNOemsrZVlRQTVrOURLZDFER1FHR0thSG1JajZDaXVkQ296RGtyMGR5bzJVd0k5M01URE1BckhCRlk2M0pPVW8xcW5yazZjWWxaUWRZeDhUVm9kRERFWTBaWE5DcFZtS2RibzZiWXlaVmpHaGFib09PemhGS0lrRTBUd2J4VUpDSk82eDlYQnJYV3JpQnFyd2dXSjc4R2tqRkdOczlXY2k2QW0vV1VKeWw4MzZPWkpiQllFb2dNZDVhb2Q0Rjc1YTF2ZjJISXc0RzZzeU5aeUQwaUpwWHVGTVBBWmhqRmFyMWZxUC9BV3Ixbkt2aDZ6aUdRQUFBQUJKUlU1RXJrSmdnZz09PC9iaXRtYXA+PHNpemU+MTQwLDcwPC9zaXplPjx0b29sdGlwPmh0dHBzOi8vb2ZmZXJzLmZpbGV6aWxsYS1wcm9qZWN0Lm9yZy9yZWRpcmVjdC5waHA/Yz10YXJkaWdyYWRlJmFtcDtzPXc8L3Rvb2x0aXA+PC9vYmplY3Q+PGJvcmRlcj4yZDwvYm9yZGVyPjxmbGFnPnd4UklHSFQ8L2ZsYWc+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eEh5cGVybGlua0N0cmwiPjxsYWJlbD5XaGF0IGlzIHRoaXM/PC9sYWJlbD48dXJsPmh0dHBzOi8vZmlsZXppbGxhLXByb2plY3Qub3JnL3Nwb25zb3JlZF91cGRhdGVzLnBocDwvdXJsPjwvb2JqZWN0PjxmbGFnPnd4QUxJR05fUklHSFQ8L2ZsYWc+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0ic3BhY2VyIj48c2l6ZT4xMCwzPC9zaXplPjwvb2JqZWN0Pjwvb2JqZWN0Pjwvb2JqZWN0PjwvcmVzb3VyY2U+ 0
+
+3.50.0 (2020-08-27)
+
+- Minor fixes to Tardigrade integration
+
+3.50.0-rc1 (2020-08-21)
+
++ Update Storj/Tardigrade integration, now based on the uplink-c library
+- Fix layout issues in the Site Manager if switching protocol
+- Restored natural sort option for file list sorting
+</Setting>
+	</Settings>
+	<Queue />
+</FileZilla3>
